@@ -1,7 +1,7 @@
 # NeuroPilot –– *control your computer with just your mind.*
 ### TreeHacks 2025 
 
-**NeuroPilot** translates neural EEG signals (brainwaves) into natural language commands, allowing users to accessibly control computer functions simply by imagining speech. 
+**NeuroPilot** translates neural EEG signals (brainwaves) into natural language commands and allows users to control computer functions simply by imagining speech; It is a real-time, end-to-end EEG-to-action pipeline.
 
 With over 5.4 million people in the United States alone having some form of paralysis, limited motor and vocal function is a pervasive barrier for many in leveraging the power of computers. NeuroPilot provides an accessible digital assistant to help support these people and expand the potential of technology to serve everyone. 
 
